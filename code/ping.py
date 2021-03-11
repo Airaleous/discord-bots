@@ -1,3 +1,5 @@
+#This is a simple program that waits for a message event (Line 8), checks the content of the message (Line 9), and responds to the message (Line 10)
+
 import discord
 
 client = discord.Client() #Defines client
