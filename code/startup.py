@@ -1,3 +1,5 @@
+#This program shows how the on_ready event can be used to tell you when your bot is finished loading, or run any other functions
+
 import discord
 
 token = open("token.txt","r").read()
