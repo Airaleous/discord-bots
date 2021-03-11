@@ -1,2 +1,2 @@
-# discord-bots
-A collection of demo codes. Written in Python.
+# Discord.py Demo Codes
+A collection of demo codes for Discord bots. Written in Python.
